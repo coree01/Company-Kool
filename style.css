@@ -1,0 +1,43 @@
+.splash-screen {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(neil-iris-1322261-unsplash.jpg);
+    background-size: cover;
+}
+
+
+.splash-screen .cta {
+    padding: 22px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color:#fff;
+    border-radius: 15px;
+}
+
+#about .card {
+    border: none;
+}
+
+#about .card .top {
+    text-align: center;
+    font-size: 4em;
+}
+
+#parallax {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(neil-iris-1322261-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#parallax .tagline {
+    padding: 15px 40px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 4px;
+
+}
+
